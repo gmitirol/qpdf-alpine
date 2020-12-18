@@ -10,6 +10,8 @@ The built binaries are tested against our Alpine base images:
 - [Alpine 3.8](https://github.com/gmitirol/alpine38)
 - [Alpine 3.9](https://github.com/gmitirol/alpine39)
 - [Alpine 3.10](https://github.com/gmitirol/alpine310)
+- [Alpine 3.11](https://github.com/gmitirol/alpine311)
+- [Alpine 3.12](https://github.com/gmitirol/alpine312)
 
 Installation
 ------------
