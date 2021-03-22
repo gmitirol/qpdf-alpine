@@ -12,6 +12,7 @@ The built binaries are tested against our Alpine base images:
 - [Alpine 3.10](https://github.com/gmitirol/alpine310)
 - [Alpine 3.11](https://github.com/gmitirol/alpine311)
 - [Alpine 3.12](https://github.com/gmitirol/alpine312)
+- [Alpine 3.13](https://github.com/gmitirol/alpine313)
 
 Installation
 ------------
